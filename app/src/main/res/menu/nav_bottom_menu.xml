@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_buyparts"
+        android:icon="@mipmap/buyparts"
+        android:title="Buy Parts" />
+
+    <item
+        android:id="@+id/bottom_buyvechiles"
+        android:icon="@mipmap/buyvehicles"
+        android:title="Buy Vehicles" />
+
+    <item
+        android:id="@+id/bottom_profile"
+        android:icon="@mipmap/newprofile"
+        android:title="Profile" />
+
+
+</menu>

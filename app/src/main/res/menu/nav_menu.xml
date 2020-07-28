@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="UnusedIds">
+
+
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/buyparts"
+            android:title="Buy Parts"
+            android:icon="@mipmap/buyparts"/>
+
+        <item
+            android:id="@+id/buyvechile"
+            android:icon="@mipmap/buyvehicles"
+            android:title="Buy Vechiles" />
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@mipmap/profile"
+            android:title="Profile" />
+
+<!--        <item-->
+<!--            android:id="@+id/notification"-->
+<!--            android:icon="@mipmap/notification"-->
+<!--            android:title="Notification" />-->
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@mipmap/settings"
+            android:title="Settings" />
+
+        <item
+            android:id="@+id/about"
+            android:title="About Us"
+            android:icon="@mipmap/profile"/>
+
+        <item
+            android:id="@+id/contact"
+            android:icon="@mipmap/contactus"
+            android:title="Contact Us" />
+
+    </group>
+
+
+</menu>
